@@ -3,3 +3,4 @@ Describes the logs and recipes of the system
 1. checkFile: 
 2. checkSuccess:
 3. getForces:
+4. getPositions:
